@@ -1,17 +1,20 @@
-# My Awesome Notes
+# Test Slide
 
-Some intro text.
+Inline equation: $a^2 + b^2 = c^2$
 
 ---
 
-## A new slide
-
-Here is some math:
-
-Inline: $E = mc^2$
-
-Display:
+## Display math
 
 $$
-\int_{0}^{\infty} x^2 e^{-x} \, dx = 2
+E = mc^2
 $$
+
+---
+
+## Another example
+
+\[
+\int_0^\infty x^2 e^{-x}\,dx = 2
+\]
+
